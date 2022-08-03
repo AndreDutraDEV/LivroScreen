@@ -176,6 +176,7 @@ li {
 .logo_nav {
   font-size: 18px;
   font-weight: 500;
+  display: block;
 }
 
 .menu_nav {
